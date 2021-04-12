@@ -473,7 +473,7 @@ begin
             texformat := TMhwTexFormat.DXGI_FORMAT_BC4_UNORM;
             end;
           //ATI2 BC5U
-          $55354342, 32495441: begin
+          $55354342, $32495441: begin
             texformat := TMhwTexFormat.DXGI_FORMAT_BC5_UNORM;
             end;
           //Raw
